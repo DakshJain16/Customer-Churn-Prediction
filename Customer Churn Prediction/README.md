@@ -28,4 +28,4 @@ Predict whether a telecom customer will churn using machine learning.
 ## 📬 How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook customer_churn.ipynb
+jupyter notebook "Customer Churn Prediction.ipynb"
